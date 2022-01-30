@@ -1,0 +1,23 @@
+#clear{
+    width:50%;
+}
+#equals{
+    
+    width: 75%;
+}
+body{
+    background:blanchedalmond;
+}
+span{
+    color: blue;
+    font-size: 1.25rem;
+}
+.contenedor{
+width: 400px;
+}
+
+@media (max-width: 576px) { 
+    .contenedor{
+        width:270px;
+    }
+ }
